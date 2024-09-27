@@ -1,0 +1,14 @@
+C:\Users\jorge\Documents\iMAT\3-Tercero de grado\5-Paradigmas y Técnicas de Programación\Prácticas\Práctica 2\Práctica 2\bin\Debug\net8.0\Practice2.exe
+C:\Users\jorge\Documents\iMAT\3-Tercero de grado\5-Paradigmas y Técnicas de Programación\Prácticas\Práctica 2\Práctica 2\bin\Debug\net8.0\Practice2.deps.json
+C:\Users\jorge\Documents\iMAT\3-Tercero de grado\5-Paradigmas y Técnicas de Programación\Prácticas\Práctica 2\Práctica 2\bin\Debug\net8.0\Practice2.runtimeconfig.json
+C:\Users\jorge\Documents\iMAT\3-Tercero de grado\5-Paradigmas y Técnicas de Programación\Prácticas\Práctica 2\Práctica 2\bin\Debug\net8.0\Practice2.dll
+C:\Users\jorge\Documents\iMAT\3-Tercero de grado\5-Paradigmas y Técnicas de Programación\Prácticas\Práctica 2\Práctica 2\bin\Debug\net8.0\Practice2.pdb
+C:\Users\jorge\Documents\iMAT\3-Tercero de grado\5-Paradigmas y Técnicas de Programación\Prácticas\Práctica 2\Práctica 2\obj\Debug\net8.0\Practice2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jorge\Documents\iMAT\3-Tercero de grado\5-Paradigmas y Técnicas de Programación\Prácticas\Práctica 2\Práctica 2\obj\Debug\net8.0\Practice2.AssemblyInfoInputs.cache
+C:\Users\jorge\Documents\iMAT\3-Tercero de grado\5-Paradigmas y Técnicas de Programación\Prácticas\Práctica 2\Práctica 2\obj\Debug\net8.0\Practice2.AssemblyInfo.cs
+C:\Users\jorge\Documents\iMAT\3-Tercero de grado\5-Paradigmas y Técnicas de Programación\Prácticas\Práctica 2\Práctica 2\obj\Debug\net8.0\Practice2.csproj.CoreCompileInputs.cache
+C:\Users\jorge\Documents\iMAT\3-Tercero de grado\5-Paradigmas y Técnicas de Programación\Prácticas\Práctica 2\Práctica 2\obj\Debug\net8.0\Practice2.dll
+C:\Users\jorge\Documents\iMAT\3-Tercero de grado\5-Paradigmas y Técnicas de Programación\Prácticas\Práctica 2\Práctica 2\obj\Debug\net8.0\refint\Practice2.dll
+C:\Users\jorge\Documents\iMAT\3-Tercero de grado\5-Paradigmas y Técnicas de Programación\Prácticas\Práctica 2\Práctica 2\obj\Debug\net8.0\Practice2.pdb
+C:\Users\jorge\Documents\iMAT\3-Tercero de grado\5-Paradigmas y Técnicas de Programación\Prácticas\Práctica 2\Práctica 2\obj\Debug\net8.0\Practice2.genruntimeconfig.cache
+C:\Users\jorge\Documents\iMAT\3-Tercero de grado\5-Paradigmas y Técnicas de Programación\Prácticas\Práctica 2\Práctica 2\obj\Debug\net8.0\ref\Practice2.dll

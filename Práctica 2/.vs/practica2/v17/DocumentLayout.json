@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jorge\\Documents\\iMAT\\3-Tercero de grado\\5-Paradigmas y T\u00E9cnicas de Programaci\u00F3n\\Pr\u00E1cticas\\Pr\u00E1ctica 2\\Pr\u00E1ctica 2.1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF901D8A-3988-4752-95C0-1E096290AB1F}|Practice2.csproj|c:\\users\\jorge\\documents\\imat\\3-tercero de grado\\5-paradigmas y t\u00E9cnicas de programaci\u00F3n\\pr\u00E1cticas\\pr\u00E1ctica 2\\pr\u00E1ctica 2.1\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF901D8A-3988-4752-95C0-1E096290AB1F}|Practice2.csproj|solutionrelative:main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF901D8A-3988-4752-95C0-1E096290AB1F}|Practice2.csproj|c:\\users\\jorge\\documents\\imat\\3-tercero de grado\\5-paradigmas y t\u00E9cnicas de programaci\u00F3n\\pr\u00E1cticas\\pr\u00E1ctica 2\\pr\u00E1ctica 2.1\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF901D8A-3988-4752-95C0-1E096290AB1F}|Practice2.csproj|solutionrelative:city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF901D8A-3988-4752-95C0-1E096290AB1F}|Practice2.csproj|c:\\users\\jorge\\documents\\imat\\3-tercero de grado\\5-paradigmas y t\u00E9cnicas de programaci\u00F3n\\pr\u00E1cticas\\pr\u00E1ctica 2\\pr\u00E1ctica 2.1\\policestation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF901D8A-3988-4752-95C0-1E096290AB1F}|Practice2.csproj|solutionrelative:policestation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF901D8A-3988-4752-95C0-1E096290AB1F}|Practice2.csproj|c:\\users\\jorge\\documents\\imat\\3-tercero de grado\\5-paradigmas y t\u00E9cnicas de programaci\u00F3n\\pr\u00E1cticas\\pr\u00E1ctica 2\\pr\u00E1ctica 2.1\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF901D8A-3988-4752-95C0-1E096290AB1F}|Practice2.csproj|solutionrelative:vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF901D8A-3988-4752-95C0-1E096290AB1F}|Practice2.csproj|c:\\users\\jorge\\documents\\imat\\3-tercero de grado\\5-paradigmas y t\u00E9cnicas de programaci\u00F3n\\pr\u00E1cticas\\pr\u00E1ctica 2\\pr\u00E1ctica 2.1\\policecar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF901D8A-3988-4752-95C0-1E096290AB1F}|Practice2.csproj|solutionrelative:policecar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF901D8A-3988-4752-95C0-1E096290AB1F}|Practice2.csproj|c:\\users\\jorge\\documents\\imat\\3-tercero de grado\\5-paradigmas y t\u00E9cnicas de programaci\u00F3n\\pr\u00E1cticas\\pr\u00E1ctica 2\\pr\u00E1ctica 2.1\\taxi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF901D8A-3988-4752-95C0-1E096290AB1F}|Practice2.csproj|solutionrelative:taxi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF901D8A-3988-4752-95C0-1E096290AB1F}|Practice2.csproj|c:\\users\\jorge\\documents\\imat\\3-tercero de grado\\5-paradigmas y t\u00E9cnicas de programaci\u00F3n\\pr\u00E1cticas\\pr\u00E1ctica 2\\pr\u00E1ctica 2.1\\speedradar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF901D8A-3988-4752-95C0-1E096290AB1F}|Practice2.csproj|solutionrelative:speedradar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF901D8A-3988-4752-95C0-1E096290AB1F}|Practice2.csproj|c:\\users\\jorge\\documents\\imat\\3-tercero de grado\\5-paradigmas y t\u00E9cnicas de programaci\u00F3n\\pr\u00E1cticas\\pr\u00E1ctica 2\\pr\u00E1ctica 2.1\\imessagewritter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF901D8A-3988-4752-95C0-1E096290AB1F}|Practice2.csproj|solutionrelative:imessagewritter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\Users\\jorge\\Documents\\iMAT\\3-Tercero de grado\\5-Paradigmas y T\u00E9cnicas de Programaci\u00F3n\\Pr\u00E1cticas\\Pr\u00E1ctica 2\\Pr\u00E1ctica 2.1\\Main.cs",
+              "RelativeDocumentMoniker": "Main.cs",
+              "ToolTip": "C:\\Users\\jorge\\Documents\\iMAT\\3-Tercero de grado\\5-Paradigmas y T\u00E9cnicas de Programaci\u00F3n\\Pr\u00E1cticas\\Pr\u00E1ctica 2\\Pr\u00E1ctica 2.1\\Main.cs",
+              "RelativeToolTip": "Main.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T17:38:43.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "City.cs",
+              "DocumentMoniker": "C:\\Users\\jorge\\Documents\\iMAT\\3-Tercero de grado\\5-Paradigmas y T\u00E9cnicas de Programaci\u00F3n\\Pr\u00E1cticas\\Pr\u00E1ctica 2\\Pr\u00E1ctica 2.1\\City.cs",
+              "RelativeDocumentMoniker": "City.cs",
+              "ToolTip": "C:\\Users\\jorge\\Documents\\iMAT\\3-Tercero de grado\\5-Paradigmas y T\u00E9cnicas de Programaci\u00F3n\\Pr\u00E1cticas\\Pr\u00E1ctica 2\\Pr\u00E1ctica 2.1\\City.cs",
+              "RelativeToolTip": "City.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T17:38:51.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PoliceStation.cs",
+              "DocumentMoniker": "C:\\Users\\jorge\\Documents\\iMAT\\3-Tercero de grado\\5-Paradigmas y T\u00E9cnicas de Programaci\u00F3n\\Pr\u00E1cticas\\Pr\u00E1ctica 2\\Pr\u00E1ctica 2.1\\PoliceStation.cs",
+              "RelativeDocumentMoniker": "PoliceStation.cs",
+              "ToolTip": "C:\\Users\\jorge\\Documents\\iMAT\\3-Tercero de grado\\5-Paradigmas y T\u00E9cnicas de Programaci\u00F3n\\Pr\u00E1cticas\\Pr\u00E1ctica 2\\Pr\u00E1ctica 2.1\\PoliceStation.cs",
+              "RelativeToolTip": "PoliceStation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T17:38:59.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\jorge\\Documents\\iMAT\\3-Tercero de grado\\5-Paradigmas y T\u00E9cnicas de Programaci\u00F3n\\Pr\u00E1cticas\\Pr\u00E1ctica 2\\Pr\u00E1ctica 2.1\\Vehicle.cs",
+              "RelativeDocumentMoniker": "Vehicle.cs",
+              "ToolTip": "C:\\Users\\jorge\\Documents\\iMAT\\3-Tercero de grado\\5-Paradigmas y T\u00E9cnicas de Programaci\u00F3n\\Pr\u00E1cticas\\Pr\u00E1ctica 2\\Pr\u00E1ctica 2.1\\Vehicle.cs",
+              "RelativeToolTip": "Vehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T17:39:02.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PoliceCar.cs",
+              "DocumentMoniker": "C:\\Users\\jorge\\Documents\\iMAT\\3-Tercero de grado\\5-Paradigmas y T\u00E9cnicas de Programaci\u00F3n\\Pr\u00E1cticas\\Pr\u00E1ctica 2\\Pr\u00E1ctica 2.1\\PoliceCar.cs",
+              "RelativeDocumentMoniker": "PoliceCar.cs",
+              "ToolTip": "C:\\Users\\jorge\\Documents\\iMAT\\3-Tercero de grado\\5-Paradigmas y T\u00E9cnicas de Programaci\u00F3n\\Pr\u00E1cticas\\Pr\u00E1ctica 2\\Pr\u00E1ctica 2.1\\PoliceCar.cs",
+              "RelativeToolTip": "PoliceCar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T17:39:00.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Taxi.cs",
+              "DocumentMoniker": "C:\\Users\\jorge\\Documents\\iMAT\\3-Tercero de grado\\5-Paradigmas y T\u00E9cnicas de Programaci\u00F3n\\Pr\u00E1cticas\\Pr\u00E1ctica 2\\Pr\u00E1ctica 2.1\\Taxi.cs",
+              "RelativeDocumentMoniker": "Taxi.cs",
+              "ToolTip": "C:\\Users\\jorge\\Documents\\iMAT\\3-Tercero de grado\\5-Paradigmas y T\u00E9cnicas de Programaci\u00F3n\\Pr\u00E1cticas\\Pr\u00E1ctica 2\\Pr\u00E1ctica 2.1\\Taxi.cs",
+              "RelativeToolTip": "Taxi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T17:39:01.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SpeedRadar.cs",
+              "DocumentMoniker": "C:\\Users\\jorge\\Documents\\iMAT\\3-Tercero de grado\\5-Paradigmas y T\u00E9cnicas de Programaci\u00F3n\\Pr\u00E1cticas\\Pr\u00E1ctica 2\\Pr\u00E1ctica 2.1\\SpeedRadar.cs",
+              "RelativeDocumentMoniker": "SpeedRadar.cs",
+              "ToolTip": "C:\\Users\\jorge\\Documents\\iMAT\\3-Tercero de grado\\5-Paradigmas y T\u00E9cnicas de Programaci\u00F3n\\Pr\u00E1cticas\\Pr\u00E1ctica 2\\Pr\u00E1ctica 2.1\\SpeedRadar.cs",
+              "RelativeToolTip": "SpeedRadar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T17:39:00.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IMessageWritter.cs",
+              "DocumentMoniker": "C:\\Users\\jorge\\Documents\\iMAT\\3-Tercero de grado\\5-Paradigmas y T\u00E9cnicas de Programaci\u00F3n\\Pr\u00E1cticas\\Pr\u00E1ctica 2\\Pr\u00E1ctica 2.1\\IMessageWritter.cs",
+              "RelativeDocumentMoniker": "IMessageWritter.cs",
+              "ToolTip": "C:\\Users\\jorge\\Documents\\iMAT\\3-Tercero de grado\\5-Paradigmas y T\u00E9cnicas de Programaci\u00F3n\\Pr\u00E1cticas\\Pr\u00E1ctica 2\\Pr\u00E1ctica 2.1\\IMessageWritter.cs",
+              "RelativeToolTip": "IMessageWritter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T17:38:57.14Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
