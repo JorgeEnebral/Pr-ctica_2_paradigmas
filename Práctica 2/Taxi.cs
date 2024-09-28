@@ -2,17 +2,22 @@
 {
     public class Taxi : Vehicle
     {
-        //constant string as TypeOfVehicle wont change allong PoliceCar instances.
         private static string typeOfVehicle = "Taxi";
+        private string plate;
         private bool isCarryingPassengers;
 
-        public Taxi(string plate) : base(typeOfVehicle, plate)
+        public Taxi(string plate) : base(typeOfVehicle)
         {
-            //Values of atributes are set just when the instance is done if not needed before.
+            this.plate = plate;
             isCarryingPassengers = false;
             SetSpeed(45.0f);
+            Console.WriteLine(WriteMessage("Created."));
         }
 
+        public string GetPlate()
+        {
+            return plate;
+        }
         public void StartRide()
         {
             if (!isCarryingPassengers)
@@ -26,7 +31,6 @@
                 Console.WriteLine(WriteMessage("is already in a ride."));
             }
         }
-
         public void StopRide()
         {
             if (isCarryingPassengers)
@@ -39,6 +43,10 @@
             {
                 Console.WriteLine(WriteMessage("is not on a ride."));
             }
+        }
+        public override string WriteMessage(string message)
+        {
+            return $"{base.ToString()} with plate {plate}: {message}";
         }
     }
 }

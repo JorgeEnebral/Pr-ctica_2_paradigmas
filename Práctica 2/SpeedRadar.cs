@@ -2,7 +2,6 @@
 {
     class SpeedRadar : IMessageWritter
     {
-        //Radar doesn't know about Vechicles, just speed and plates
         private string plate;
         private float speed;
         private float legalSpeed = 50.0f;
@@ -14,14 +13,12 @@
             speed = 0f;
             SpeedHistory = new List<float>();
         }
-
-        public void TriggerRadar(Vehicle vehicle)
+        public void TriggerRadar(Taxi vehicle)
         {
             plate = vehicle.GetPlate();
             speed = vehicle.GetSpeed();
             SpeedHistory.Add(speed);
         }
-        
         public string GetLastReading()
         {
             if (speed > legalSpeed)
@@ -33,7 +30,6 @@
                 return WriteMessage("Driving legally.");
             }
         }
-
         public string WriteMessage(string radarReading)
         {
             return $"Vehicle with plate {plate} at {speed.ToString()} km/h. {radarReading}";

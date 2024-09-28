@@ -1,4 +1,6 @@
-﻿namespace Practice2
+﻿using System.Xml.Linq;
+
+namespace Practice2
 {
     public class PoliceStation: IMessageWritter
     {
@@ -6,18 +8,19 @@
         public string CityName { get; private set; }
         public PoliceStation(string city)
         {
-            this.CityName = city;
+            CityName = city;
             policeCarList = new List<PoliceCar>();
+            Console.WriteLine(WriteMessage($"{CityName} PoliceStation: Created."));
         }
         public void AddPoliceCar(PoliceCar pc)
         {
-            Console.WriteLine(pc.WriteMessage($"Added to the PoliceStation of {CityName}"));
+            Console.WriteLine(pc.WriteMessage($"Added to the PoliceStation of {CityName}."));
             policeCarList.Add(pc);
             pc.PoliceStationGS = this;
         }
         public void ActivateAlert(string plate)
         {
-            Console.WriteLine(WriteMessage($"Alerta activada: Perseguir taxi con placa {plate}."));
+            Console.WriteLine(WriteMessage($"{CityName} PoliceStation alert activated: chasing taxi with plate {plate}."));
             foreach (var policeCar in policeCarList)
             {
                 if (policeCar.IsPatrolling())

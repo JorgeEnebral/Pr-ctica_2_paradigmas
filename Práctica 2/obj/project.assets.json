@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jorge\\Documents\\iMAT\\3-Tercero de grado\\5-Paradigmas y Técnicas de Programación\\Prácticas\\Práctica 2\\Práctica 2.1\\Practice2.csproj",
+      "projectUniqueName": "C:\\Users\\jorge\\Documents\\iMAT\\3-Tercero de grado\\5-Paradigmas y Técnicas de Programación\\Prácticas\\Práctica 2\\Práctica 2\\Practice2.csproj",
       "projectName": "Practice2",
-      "projectPath": "C:\\Users\\jorge\\Documents\\iMAT\\3-Tercero de grado\\5-Paradigmas y Técnicas de Programación\\Prácticas\\Práctica 2\\Práctica 2.1\\Practice2.csproj",
+      "projectPath": "C:\\Users\\jorge\\Documents\\iMAT\\3-Tercero de grado\\5-Paradigmas y Técnicas de Programación\\Prácticas\\Práctica 2\\Práctica 2\\Practice2.csproj",
       "packagesPath": "C:\\Users\\jorge\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jorge\\Documents\\iMAT\\3-Tercero de grado\\5-Paradigmas y Técnicas de Programación\\Prácticas\\Práctica 2\\Práctica 2.1\\obj\\",
+      "outputPath": "C:\\Users\\jorge\\Documents\\iMAT\\3-Tercero de grado\\5-Paradigmas y Técnicas de Programación\\Prácticas\\Práctica 2\\Práctica 2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jorge\\AppData\\Roaming\\NuGet\\NuGet.Config",

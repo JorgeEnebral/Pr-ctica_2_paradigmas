@@ -12,3 +12,4 @@ C:\Users\jorge\Documents\iMAT\3-Tercero de grado\5-Paradigmas y Técnicas de Pro
 C:\Users\jorge\Documents\iMAT\3-Tercero de grado\5-Paradigmas y Técnicas de Programación\Prácticas\Práctica 2\Práctica 2\obj\Debug\net8.0\Practice2.pdb
 C:\Users\jorge\Documents\iMAT\3-Tercero de grado\5-Paradigmas y Técnicas de Programación\Prácticas\Práctica 2\Práctica 2\obj\Debug\net8.0\Practice2.genruntimeconfig.cache
 C:\Users\jorge\Documents\iMAT\3-Tercero de grado\5-Paradigmas y Técnicas de Programación\Prácticas\Práctica 2\Práctica 2\obj\Debug\net8.0\ref\Practice2.dll
+C:\Users\jorge\Documents\iMAT\3-Tercero de grado\5-Paradigmas y Técnicas de Programación\Prácticas\Práctica 2\Práctica 2\obj\Debug\net8.0\Practice2.sourcelink.json
